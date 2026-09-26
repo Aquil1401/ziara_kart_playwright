@@ -1,8 +1,0 @@
-export const users = {
-  invalidUser: {
-    username: 'wrong_user',
-    password: 'wrong_pass',
-    error:
-      'Epic sadface: Username and password do not match any user in this service',
-  },
-};

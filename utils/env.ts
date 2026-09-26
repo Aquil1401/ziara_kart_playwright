@@ -1,18 +1,6 @@
-// utils/env.ts
-
 export const ENV = {
-  baseUrl: process.env.BASE_URL || '',
-  username: process.env.USER_EMAIL || '',
-  password: process.env.USER_PASSWORD || '',
+  baseUrl: process.env.BASE_URL || 'https://ziarakart.vercel.app',
+  dealerToken: process.env.DEALER_TOKEN || 'test-qa-dealer-token',
+  dealerShop: process.env.DEALER_SHOP || 'Maa Durga Kirana Store',
+  dealerOwner: process.env.DEALER_OWNER || 'Amit Verma',
 };
-
-// 🔒 Fail fast only in CI
-if (process.env.CI) {
-  if (!ENV.baseUrl) {
-    throw new Error('❌ BASE_URL is missing');
-  }
-
-  if (!ENV.username || !ENV.password) {
-    throw new Error('❌ USER_EMAIL or USER_PASSWORD is missing');
-  }
-}
