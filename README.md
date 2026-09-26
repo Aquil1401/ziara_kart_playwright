@@ -222,7 +222,7 @@ Detailed documentation tailored for this application and the AI setup workflow:
 **Md Aquil** — QA Automation Engineer & SDET
 * 💼 **Open to**: **Full-Time Opportunities** (Remote / Hybrid) & **Contract QA Consulting**
 * 🎯 **Testing Services**: [Ziara QA Labs](https://qa.ziaratechqlabs.in/)
-* 🌐 **Portfolio**: [ziaratechqlabs.in](https://www.ziaratechqlabs.in/)
+* 🏢 **Company / Studio**: [Ziara TechQ Labs](https://www.ziaratechqlabs.in/)
 * 💼 **LinkedIn**: [linkedin.com/in/md-aquil-qa](https://www.linkedin.com/in/md-aquil-qa/)
 * ▶️ **YouTube**: [Ziara TechQ Labs](https://www.youtube.com/@ZiaraTechQLabs)
 * 📧 **Email**: [ziaratechqlabs@gmail.com](mailto:ziaratechqlabs@gmail.com)
