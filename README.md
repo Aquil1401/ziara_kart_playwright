@@ -137,6 +137,7 @@ Detailed documentation tailored for this application and the AI setup workflow:
 - [Framework Architecture (POM)](docs/architecture.md) — Explains the 4-layer POM design, dynamic wait strategy, and WhatsApp interception.
 - [Zero-Code AI & MCP Automation Workflow](docs/zero-code-ai-workflow.md) — The exact autonomous AI process guide for YouTube tutorials and presentations.
 - [Setup & Execution Guide](docs/setup-and-execution.md) — Step-by-step commands for headless, headed, UI mode, and HTML reporting.
+- [Cross-Repository CI/CD Setup](docs/cross-repo-ci-cd-setup.md) — Step-by-step guide to trigger this automation suite from the separate development repository.
 
 ---
 
