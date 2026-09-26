@@ -1,5 +1,6 @@
 # ZiaraKart Playwright Automation Framework (TypeScript + POM)
 
+[![Playwright Tests](https://github.com/Aquil1401/ziara_kart_playwright/actions/workflows/playwright.yml/badge.svg)](https://github.com/Aquil1401/ziara_kart_playwright/actions/workflows/playwright.yml)
 ![Playwright](https://img.shields.io/badge/Playwright-1.57+-green)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)
 ![Design Pattern](https://img.shields.io/badge/Pattern-POM-orange)
